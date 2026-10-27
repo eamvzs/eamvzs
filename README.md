@@ -2,7 +2,7 @@
 
 **`Software Engineering Intern | Information Systems Student`**
 
-Information Systems student and Software Engineering Intern at Serena, building practical software at the intersection of backend development, data, cloud, and cybersecurity. My academic work includes Java and Spring Boot APIs with Oracle, Python-based applications, and robotics projects. I’m especially interested in identity and access management, automation, and responsible AI. I’m a Microsoft Certified: Identity and Access Administrator Associate (SC-300) and a Google Student Ambassador for 2026, sharing practical AI use with the student community.
+Software Engineering Intern at Serena and Information Systems student at FIAP. At Serena, I contribute to People applications and internal tools, improving workflows, dashboards, data integrations, and access controls. My local projects focus on identity and security automation, cloud operations, and reporting. I work across TypeScript/React, Python, PowerShell, SQL, Supabase, AWS, and Azure; academic projects include Java/Spring Boot APIs with Oracle and Postman. I’m a Microsoft Certified: Identity and Access Administrator Associate (SC-300) and a Google Student Ambassador for 2026, with a focus on practical, responsible AI.
 
 ---
 
@@ -11,9 +11,15 @@ Information Systems student and Software Engineering Intern at Serena, building 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-
-
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Supabase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+<img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Microsoft Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />

@@ -2,7 +2,7 @@
 
 **`TechOps Intern | Information Systems Student`**
 
-TechOps Intern at Serena and Information Systems student at FIAP. I work across Telecom, Infrastructure, Cloud, and Cybersecurity, contributing to operational analysis, dashboards, governance, automation, and People applications. My previous operations and IT support roles built experience in incident management, EDI, Microsoft 365, Active Directory, SQL Server, VMware, and Windows, Linux, and macOS. My projects span Python/PowerShell automation, TypeScript/React, PostgreSQL/Supabase, Docker, Kubernetes, AWS, and Azure; academic work includes Java/Spring Boot APIs with Oracle and Postman. I’m a Microsoft Certified: Identity and Access Administrator Associate (SC-300) and a Google Student Ambassador for 2026, focused on practical, responsible AI.
+TechOps Intern at Serena and Information Systems student at FIAP. I work across Telecom, Infrastructure, Cloud, and Cybersecurity, contributing to operational analysis, dashboards, governance, automation, and People applications. My previous operations and IT support roles built experience in incident management, EDI, Microsoft 365, Active Directory, SQL Server, VMware, and Windows, Linux, and macOS. My projects span Python/PowerShell automation, TypeScript/React, PostgreSQL/Supabase, Docker, Kubernetes, AWS, and Azure; academic work includes Java/Spring Boot APIs with Oracle and Postman. I hold the Microsoft Certified: Identity and Access Administrator Associate (SC-300) and Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500) certifications, and am a Google Student Ambassador for 2026, focused on practical, responsible AI.
 
 ---
 
